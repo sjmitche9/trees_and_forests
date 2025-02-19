@@ -1,1 +1,1 @@
-# trees_and_forests
+# This repository contains the lecture and tutorial for trees and forests.
